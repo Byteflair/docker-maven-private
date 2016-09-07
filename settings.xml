@@ -1,4 +1,5 @@
 <settings>
+    <localRepository>/usr/share/maven/ref/repository</localRepository>
     <servers>
 	<server>
 		<id>${env.NEXUS_ID}</id>
